@@ -1,9 +1,9 @@
 ### Hi there 👋
-I'm Abdelrahman, an IT-Security student with a passion for machine learning, I enjoy creating innvovative and efficient machine learning models and while my GitHub account may be a bit empty at the moment, that doesn't mean I'm not brimming with ideas and enthusiasm for the projects to come.
-In the meantime, why not connect with me and let's chat about all things tech, football, and animation? Who knows, maybe we'll come up with something even better than what I have planned. The possibilities are endless when you have a mind full of ideas and a heart full of humor.👽
+I'm Abdelrahman, an IT-Security student with a passion for machine learning, I enjoy creating innvovative and efficient machine learning models and other projects using APIs and while my GitHub account may be a bit empty at the moment, that doesn't mean I'm not brimming with ideas and enthusiasm for the projects to come.
+In the meantime, why not connect with me and let's chat about all things tech, football, and Movies? Who knows, maybe we'll come up with something even better than what I have planned. The possibilities are endless when you have a mind full of ideas and a heart full of humor.👽
 
 - ⚽ Playing football
-- 🎥 Creating animation videos - I enjoy experimenting with animation software and producing engaging videos, however I do NOT enjoy Anime :D.
+- 🎥 I enjoy watching Movies and series 
 - 🔴 Supporting Liverpool 
 
 
