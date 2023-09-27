@@ -1,11 +1,10 @@
 ### Hi there 👋
-I'm Abdelrahman Sheha, an IT-Security student with a passion for machine learning, I enjoy creating innvovative and efficient machine learning models and while my GitHub account may be a bit bare at the moment, that doesn't mean I'm not brimming with ideas and enthusiasm for the projects to come.
+I'm Abdelrahman, an IT-Security student with a passion for machine learning, I enjoy creating innvovative and efficient machine learning models and while my GitHub account may be a bit empty at the moment, that doesn't mean I'm not brimming with ideas and enthusiasm for the projects to come.
 In the meantime, why not connect with me and let's chat about all things tech, football, and animation? Who knows, maybe we'll come up with something even better than what I have planned. The possibilities are endless when you have a mind full of ideas and a heart full of humor.👽
 
-- ⚽ Playing football - I love hitting the field whenever I get the chance to.
-- 🔐 Learning about IT security and exploring the latest trends and techniques in the field.
+- ⚽ Playing football
 - 🎥 Creating animation videos - I enjoy experimenting with animation software and producing engaging videos, however I do NOT enjoy Anime :D.
-- 🔴 Supporting Liverpool - I am a die-hard fan of the Reds and never miss a match.
+- 🔴 Supporting Liverpool 
 
 
 <!--
